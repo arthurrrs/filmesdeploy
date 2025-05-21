@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "titulo": "Madagascar 3",
+      "ano": 2012,
+      "genero": "Fantasia, Aventura"
+    },
+    {
+      "id": 3,
+      "titulo": "madagascar 2",
+      "ano": 2000,
+      "genero": "Fantasia, Aventura"
+    },
+    {
+      "id": 4,
+      "titulo": "Velozes e Furiosos 10",
+      "ano": 2023,
+      "genero": "ação"
+    }
+  ]
